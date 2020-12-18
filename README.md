@@ -1,5 +1,9 @@
 # Minesweeper Game in React
 
+[Play Game](https://minesweeeeper.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bd19353a-e0a9-4710-aaeb-b2d074f0aafd/deploy-status)](https://app.netlify.com/sites/vigorous-banach-c8bf45/deploys)
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50603255/76736006-6df30b00-67a9-11ea-8171-1436bb460a44.PNG" alt="Minesweeper game">
 </p>
